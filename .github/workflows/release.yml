@@ -20,7 +20,7 @@ jobs:
           text = open("CHANGELOG.md", encoding="utf-8").read()
           m = re.search(r"^## (\S+).*?\n(.*?)(?=^## |\Z)", text, re.S | re.M)
           version, body = m.group(1), m.group(2).strip()
-          body += "\n\nRead the method: https://accuratepredict.com/how-we-make-predictions"
+          body += "\n\nMore at https://accuratepredict.com"
           open("NOTES.md", "w", encoding="utf-8").write(body)
           open("VERSION", "w").write(version)
           PY

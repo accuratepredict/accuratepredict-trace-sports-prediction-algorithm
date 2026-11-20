@@ -1,8 +1,8 @@
 # The TRACE methodology
 
 The plain-English version, written for readers rather than developers, is on
-the AccuratePredict site:
-**[How we make predictions](https://accuratepredict.com/how-we-make-predictions)**.
+the AccuratePredict site,
+**[accuratepredict.com](https://accuratepredict.com)**.
 This note maps each part of it to the code in this repository.
 
 ## T: Timestamped (`timestamp.py`)

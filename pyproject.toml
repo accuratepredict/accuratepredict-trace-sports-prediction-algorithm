@@ -21,8 +21,6 @@ dependencies = []
 
 [project.urls]
 Homepage = "https://accuratepredict.com"
-Methodology = "https://accuratepredict.com/how-we-make-predictions"
-"Accuracy record" = "https://accuratepredict.com/prediction-accuracy"
 Source = "https://github.com/accuratepredict/accuratepredict-trace-sports-prediction-algorithm"
 
 [tool.setuptools]

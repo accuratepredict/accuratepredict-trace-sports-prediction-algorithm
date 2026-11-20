@@ -9,7 +9,7 @@ version: 0.1.0
 date-released: "2026-11-21"
 license: Apache-2.0
 repository-code: "https://github.com/accuratepredict/accuratepredict-trace-sports-prediction-algorithm"
-url: "https://accuratepredict.com/how-we-make-predictions"
+url: "https://accuratepredict.com"
 abstract: >-
   TRACE (Timestamped, Ratings, Adjusted, Calibrated, Evaluated) is the sports
   prediction framework used by AccuratePredict. This reference implementation

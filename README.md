@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://accuratepredict.com/how-we-make-predictions">
+  <a href="https://accuratepredict.com">
     <img src=".github/social-preview.png" alt="AccuratePredict TRACE: Timestamped, Ratings, Adjusted, Calibrated, Evaluated" width="720">
   </a>
 </p>
@@ -23,9 +23,7 @@ It is a skeleton, not the production engine. The structure and the methods are
 real. The tuned parameters, the data pipeline and the production models stay
 private. See [What is not in this repository](#what-is-not-in-this-repository).
 
-- **Read the method in plain English:** [How we make predictions](https://accuratepredict.com/how-we-make-predictions)
-- **See the live record, wins and losses:** [Prediction accuracy](https://accuratepredict.com/prediction-accuracy)
-- **Today's predictions:** [accuratepredict.com/predictions](https://accuratepredict.com/predictions)
+- **Free predictions, the method and the live record:** [accuratepredict.com](https://accuratepredict.com)
 
 ---
 
@@ -183,7 +181,7 @@ that took the most work to get right are not published:
 
 The way to judge the production system is its record, which is public:
 every call is timestamped before the match and stays on the site next to the
-final score, at [accuratepredict.com/prediction-accuracy](https://accuratepredict.com/prediction-accuracy).
+final score, at [accuratepredict.com](https://accuratepredict.com).
 
 ## FAQ
 
@@ -210,7 +208,7 @@ AccuratePredict or TRACE names or logos; see [NOTICE](NOTICE).
 Not on its own, and no method can promise that. A 62 percent prediction is expected to lose nearly four
 times in ten. TRACE is about stating probabilities honestly and proving them
 over time, not about certainty. If you bet, set limits and see the
-[responsible gambling](https://accuratepredict.com/responsible-gambling) page. 18+ only.
+responsible gambling page on [accuratepredict.com](https://accuratepredict.com). 18+ only.
 
 **Why not publish everything?**
 Publishing the framework lets anyone check that the method is sound.
@@ -226,7 +224,7 @@ teaching, you can:
 - **Sponsor** the project through the Sponsor button at the top of this page
 - **Star** the repository so others find it
 - **Contribute** tests, documentation or new rating models (see [CONTRIBUTING](CONTRIBUTING.md))
-- **Partner with us** on data, research or distribution through [accuratepredict.com/contact](https://accuratepredict.com/contact)
+- **Partner with us** on data, research or distribution through [accuratepredict.com](https://accuratepredict.com)
 
 ## Citing TRACE
 
@@ -242,9 +240,8 @@ https://github.com/accuratepredict/accuratepredict-trace-sports-prediction-algor
 ## About AccuratePredict
 
 [AccuratePredict](https://accuratepredict.com) publishes free predictions
-across football and nine other sports, with a free
-[bet code converter](https://accuratepredict.com/convert-bet-codes) and
-[free booking codes](https://accuratepredict.com/free-booking-codes).
+across football and nine other sports, with a free bet code converter
+and free booking codes.
 It is operated by African Sporting Technology Ltd. Every prediction is
 produced by a model, not a tipster, and every settled call stays published,
 wins and losses alike.
