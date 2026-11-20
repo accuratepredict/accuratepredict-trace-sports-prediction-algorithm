@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use AccuratePredict TRACE, please cite it as below."
+title: "AccuratePredict TRACE: an open framework for timestamped, calibrated sports prediction"
+type: software
+authors:
+  - name: "AccuratePredict"
+    website: "https://accuratepredict.com"
+version: 0.1.0
+date-released: "2026-11-21"
+license: Apache-2.0
+repository-code: "https://github.com/accuratepredict/accuratepredict-trace"
+url: "https://accuratepredict.com/how-we-make-predictions"
+abstract: >-
+  TRACE (Timestamped, Ratings, Adjusted, Calibrated, Evaluated) is the sports
+  prediction framework used by AccuratePredict. This reference implementation
+  provides a time-decayed Dixon-Coles goals model, a margin-aware Elo rating,
+  market de-vigging and blending, Platt calibration, a hash-chained
+  prediction log and proper-scoring-rule evaluation, in dependency-free Python.
+keywords:
+  - sports prediction
+  - football prediction model
+  - Dixon-Coles
+  - Elo rating
+  - probability calibration
+  - Brier score
+  - forecasting
+references:
+  - type: article
+    authors: [{family-names: Dixon, given-names: Mark J.}, {family-names: Coles, given-names: Stuart G.}]
+    title: "Modelling association football scores and inefficiencies in the football betting market"
+    journal: "Journal of the Royal Statistical Society: Series C"
+    volume: 46
+    issue: 2
+    year: 1997
+  - type: article
+    authors: [{family-names: Maher, given-names: M. J.}]
+    title: "Modelling association football scores"
+    journal: "Statistica Neerlandica"
+    volume: 36
+    issue: 3
+    year: 1982
