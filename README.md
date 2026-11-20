@@ -4,14 +4,14 @@
   </a>
 </p>
 
-# AccuratePredict TRACE
+# AccuratePredict TRACE: Sports Prediction Algorithm
 
-**An open, auditable framework for sports prediction: Timestamped, Ratings, Adjusted, Calibrated, Evaluated.**
+**An open, auditable sports and football prediction algorithm: Timestamped, Ratings, Adjusted, Calibrated, Evaluated.**
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-223F94.svg)](LICENSE)
-[![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-055264.svg)](pyproject.toml)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-055264.svg)](pyproject.toml)
 [![Dependencies: none](https://img.shields.io/badge/dependencies-none-6CB47A.svg)](pyproject.toml)
-[![Tests](https://github.com/accuratepredict/accuratepredict-trace/actions/workflows/tests.yml/badge.svg)](https://github.com/accuratepredict/accuratepredict-trace/actions/workflows/tests.yml)
+[![Tests](https://github.com/accuratepredict/accuratepredict-trace-sports-prediction-algorithm/actions/workflows/tests.yml/badge.svg)](https://github.com/accuratepredict/accuratepredict-trace-sports-prediction-algorithm/actions/workflows/tests.yml)
 
 TRACE is the framework behind the free football and multi-sport predictions on
 [AccuratePredict.com](https://accuratepredict.com). This repository is its open
@@ -86,8 +86,8 @@ No install, no API key and no data licence needed. The demo generates a
 synthetic league.
 
 ```bash
-git clone https://github.com/accuratepredict/accuratepredict-trace.git
-cd accuratepredict-trace
+git clone https://github.com/accuratepredict/accuratepredict-trace-sports-prediction-algorithm.git
+cd accuratepredict-trace-sports-prediction-algorithm
 python examples/walk_forward_demo.py
 python -m unittest discover -s tests
 ```
@@ -95,7 +95,7 @@ python -m unittest discover -s tests
 Or install it as a package:
 
 ```bash
-pip install git+https://github.com/accuratepredict/accuratepredict-trace.git
+pip install git+https://github.com/accuratepredict/accuratepredict-trace-sports-prediction-algorithm.git
 ```
 
 ## What the demo shows
@@ -236,7 +236,7 @@ If you use TRACE in research or writing, please cite it. GitHub shows a
 ```text
 AccuratePredict (2026). AccuratePredict TRACE: an open framework for
 timestamped, calibrated sports prediction (Version 0.1.0).
-https://github.com/accuratepredict/accuratepredict-trace
+https://github.com/accuratepredict/accuratepredict-trace-sports-prediction-algorithm
 ```
 
 ## About AccuratePredict

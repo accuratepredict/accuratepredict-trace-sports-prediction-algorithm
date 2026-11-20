@@ -7,7 +7,7 @@ name = "accuratepredict-trace"
 version = "0.1.0"
 description = "AccuratePredict TRACE: open framework for timestamped, calibrated sports prediction (Dixon-Coles, Elo, calibration, evaluation)."
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 license = {text = "Apache-2.0"}
 authors = [{name = "AccuratePredict", email = "accuratepredictz@gmail.com"}]
 keywords = ["sports prediction", "football prediction", "dixon-coles", "elo", "calibration", "brier score", "forecasting"]
@@ -23,7 +23,7 @@ dependencies = []
 Homepage = "https://accuratepredict.com"
 Methodology = "https://accuratepredict.com/how-we-make-predictions"
 "Accuracy record" = "https://accuratepredict.com/prediction-accuracy"
-Source = "https://github.com/accuratepredict/accuratepredict-trace"
+Source = "https://github.com/accuratepredict/accuratepredict-trace-sports-prediction-algorithm"
 
 [tool.setuptools]
 packages = ["accuratepredict_trace", "accuratepredict_trace.ratings"]
